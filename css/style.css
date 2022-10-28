@@ -306,6 +306,11 @@ body {
   font-size: 36px;
   line-height: 1.16;
 }
+
+.section.work{
+  padding-top:0;
+}
+
 .section-work {
   display: flex;
   gap: 30px;
