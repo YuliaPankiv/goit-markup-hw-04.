@@ -112,6 +112,8 @@ body {
 }
 
 .contact-list .link {
+  display: flex;
+  align-items: center;
   color: var(--primary-text-color);
   text-decoration: none;
 }
